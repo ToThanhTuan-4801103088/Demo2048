@@ -1,0 +1,49 @@
+F:\c#\Demo2048\Demo\bin\Debug\Demo.exe.config
+F:\c#\Demo2048\Demo\obj\Debug\Demo.exe
+F:\c#\Demo2048\Demo\obj\Debug\Demo.pdb
+F:\c#\Demo2048\Demo\bin\Debug\Demo.exe
+F:\c#\Demo2048\Demo\bin\Debug\Demo.pdb
+F:\c#\Demo2048\Demo\obj\Debug\Demo2048.csprojResolveAssemblyReference.cache
+F:\c#\Demo2048\Demo\obj\Debug\Demo.Form1.resources
+F:\c#\Demo2048\Demo\obj\Debug\Demo.Properties.Resources.resources
+F:\c#\Demo2048\Demo\obj\Debug\Demo2048.csproj.GenerateResource.Cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.exe.config
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\bin\Debug\Demo.pdb
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csproj.AssemblyReference.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csproj.GenerateResource.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo2048.csproj.CoreCompileInputs.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048\Demo\obj\Debug\Demo.pdb
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\bin\Debug\Demo.exe.config
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\bin\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\bin\Debug\Demo.pdb
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo2048.csproj.AssemblyReference.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.Form2.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo2048.csproj.GenerateResource.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo2048.csproj.CoreCompileInputs.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.pdb
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.MenuForm.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Copy\Demo\obj\Debug\Demo.min2Form1.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo2048.csproj.AssemblyReference.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.Form2.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.MenuForm.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.Min2Form1.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.Min2Form2.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo2048.csproj.GenerateResource.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo2048.csproj.CoreCompileInputs.cache
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\obj\Debug\Demo.pdb
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\bin\Debug\Demo.exe.config
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\bin\Debug\Demo.exe
+C:\Users\LCO\Desktop\Demo2048\Demo2048 - Recheck\Demo\bin\Debug\Demo.pdb
